@@ -1,0 +1,2 @@
+def coordinator(state):
+    return {}
